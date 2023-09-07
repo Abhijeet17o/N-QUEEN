@@ -118,5 +118,4 @@ def bPrint(size):
         for c in r:
             print(c, end=" ")
         print()
-        
-# bPrint(10)
+
